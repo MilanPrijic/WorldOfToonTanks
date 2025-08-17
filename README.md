@@ -1,6 +1,3 @@
-# WorldOfToonTanks
-This is a small singleplayer game focused on a player contorller tank, and stationary, AI controlled turret enemies. Destroy your enemies by firing at them and avoiding their shots before they destroy you!
-
 # 🎮 World Of ToonTanks
 
 A [Unreal Engine 5](https://www.unrealengine.com/) project built with **Unreal Engine 5**, showcasing a small singleplayer game focused on a player contorller tank, and AI controlled turret enemies. Destroy your enemies before they destroy you!
